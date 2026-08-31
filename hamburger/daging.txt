@@ -1,2 +1,4 @@
 sapi
 ayam
+kambing
+bebek
