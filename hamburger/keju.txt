@@ -1,2 +1,1 @@
-double cheese
-cheese burger
+1 slice
